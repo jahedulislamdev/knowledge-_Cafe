@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "cover_img": "https://images.unsplash.com/photo-1596387451750-f7bfb51461ef?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y292ZXIlMjBwaG90b3xlbnwwfHwwfHx8MA%3D%3D",
+        "author": "Jane Doe",
+        "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiD0y3Y6hURQ5_GTfmmT4XQ3d5-RVZbt24NQ&s",
+        "title": "Exploring the Future of AI",
+        "posted_date": "5 may",
+        "reading_time": 8,
+        "hashTags": ["AI", "technology", "future"]
+    },
+    {
+        "id": 2,
+        "cover_img": "https://images.unsplash.com/photo-1623627484632-f041d1fb366d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8Y292ZXIlMjBwaG90b3xlbnwwfHwwfHx8MA%3D%3D",
+        "author": "John Smith",
+        "author_img": "https://img.freepik.com/free-photo/portrait-young-man-holding-his-book_114579-78988.jpg?t=st=1717396167~exp=1717399767~hmac=aca4433258044f95030bc1d69e39f1e9ebfa7f07f1a1f4a25d90986c24d72554&w=360",
+        "title": "The Art of Minimalism",
+        "posted-date": "1 june",
+        "reading_time": 6,
+        "hashTags": ["minimalism", "lifestyle", "design"]
+    },
+    {
+        "id": 3,
+        "cover_img": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGNvdmVyJTIwcGhvdG98ZW58MHx8MHx8fDA%3D",
+        "author": "Emily Johnson",
+        "author_img": "https://img.freepik.com/free-photo/young-man-wearing-blue-outfit-holding-red-folder_1298-179.jpg?t=st=1717396202~exp=1717399802~hmac=d7bd5c42c8b8ba7a3961f270a44ec36839d3a08f813cc431e6f413f6f63edad5&w=740",
+        "title": "Traveling on a Budget",
+        "posted_date": "20 April",
+        "reading_time": 10,
+        "hashTags": ["travel", "budget", "adventure"]
+    },
+    {
+        "id": 4,
+        "cover_img": "https://plus.unsplash.com/premium_photo-1676654935937-109c7936b8ff?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNvdmVyJTIwcGhvdG98ZW58MHx8MHx8fDA%3D",
+        "author": "Michael Brown",
+        "author_img": "https://t4.ftcdn.net/jpg/03/26/98/51/240_F_326985142_1aaKcEjMQW6ULp6oI9MYuv8lN9f8sFmj.jpg",
+        "title": "Healthy Eating for Busy People",
+        "posted_date": "10 May",
+        "reading_time": 5,
+        "hashTags": ["health", "food", "nutrition"]
+    },
+    {
+        "id": 5,
+        "cover_img": "https://images.unsplash.com/photo-1598770220477-cec551a23f53?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fGNvdmVyJTIwcGhvdG98ZW58MHx8MHx8fDA%3D",
+        "author": "Sarah Lee",
+        "author_img": "https://t3.ftcdn.net/jpg/02/58/89/90/240_F_258899001_68CalsKTRk6PZQgWH9JhR4heBlncCko9.jpg",
+        "title": "Mastering the Art of Cooking",
+        "posted_date": "2 July",
+        "reading_time": 12,
+        "hashTags": ["cooking", "recipes", "culinary"]
+    },
+    {
+        "id": 6,
+        "cover_img": "https://images.unsplash.com/photo-1553490038-143ef3ab2a98?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fGNvdmVyJTIwcGhvdG98ZW58MHx8MHx8fDA%3D",
+        "author": "David Wilson",
+        "author_img": "https://t3.ftcdn.net/jpg/03/67/56/88/240_F_367568864_sllIDN5WOBIzhghBw2aA0GvSoHeCdtWM.jpg",
+        "title": "The Rise of Renewable Energy",
+        "posted_date": "3 August",
+        "reading_time": 9,
+        "hashTags": ["energy", "renewables", "sustainability"]
+    },
+    {
+        "id": 7,
+        "cover_img": "https://images.unsplash.com/photo-1528465424850-54d22f092f9d?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y292ZXIlMjBwaG90b3xlbnwwfHwwfHx8MA%3D%3D",
+        "author": "Anna Martinez",
+        "author_img": "https://t3.ftcdn.net/jpg/01/90/91/06/240_F_190910618_FhNMrWwTlnhxRWMuSHPgs9FRbUyfZ3Pe.jpg",
+        "title": "A Guide to Meditation",
+        "posted_date": "12 March",
+        "reading_time": 7,
+        "hashTags": ["meditation", "wellness", "mindfulness"]
+    }
+]
